@@ -2,7 +2,7 @@
  * Project: Recreating the Biclass Database - Group 6
  * Author: Annafi Islam
  * Description: This SQL file contains stored procedures and scripts for loading and transforming data into a 
- *              dimensional model for a data warehouse.
+ * dimensional model for a data warehouse.
  *
  * Contents:
  *   1. Load_DimOrderDate - Procedure to load data into DimOrderDate table
@@ -24,8 +24,4 @@
  *   - Review and update any hard-coded values as necessary.
  *   - Ensure proper indexing and optimization for large datasets.
  *
- * Revision History:
- *   - 04/09/2023: Initial creation by Annafi Islam
- *   - 04/10/2023: Added Load_DimProductSubcategory by Corey Almonte
- *   - 04/11/2023: Added Load_DimTerritory, Load_DimCustomer by groupmates
  **************************************************************************************************************/
